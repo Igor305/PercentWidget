@@ -1,3 +1,0 @@
-# PercentWidget
-
-git checkout dev
