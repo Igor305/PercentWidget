@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\i.talavyria\\Desktop\\project\\Новая папка\\PercentWidget\\PercentWidget\\PercentWidget\\PercentWidget.csproj": {}
+    "C:\\Users\\i.talavyria\\Desktop\\project\\PercentWidget\\PercentWidget\\PercentWidget\\PercentWidget.csproj": {}
   },
   "projects": {
-    "C:\\Users\\i.talavyria\\Desktop\\project\\Новая папка\\PercentWidget\\PercentWidget\\PercentWidget\\PercentWidget.csproj": {
+    "C:\\Users\\i.talavyria\\Desktop\\project\\PercentWidget\\PercentWidget\\PercentWidget\\PercentWidget.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\i.talavyria\\Desktop\\project\\Новая папка\\PercentWidget\\PercentWidget\\PercentWidget\\PercentWidget.csproj",
+        "projectUniqueName": "C:\\Users\\i.talavyria\\Desktop\\project\\PercentWidget\\PercentWidget\\PercentWidget\\PercentWidget.csproj",
         "projectName": "PercentWidget",
-        "projectPath": "C:\\Users\\i.talavyria\\Desktop\\project\\Новая папка\\PercentWidget\\PercentWidget\\PercentWidget\\PercentWidget.csproj",
+        "projectPath": "C:\\Users\\i.talavyria\\Desktop\\project\\PercentWidget\\PercentWidget\\PercentWidget\\PercentWidget.csproj",
         "packagesPath": "C:\\Users\\i.talavyria\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\i.talavyria\\Desktop\\project\\Новая папка\\PercentWidget\\PercentWidget\\PercentWidget\\obj\\",
+        "outputPath": "C:\\Users\\i.talavyria\\Desktop\\project\\PercentWidget\\PercentWidget\\PercentWidget\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\i.talavyria\\AppData\\Roaming\\NuGet\\NuGet.Config",
