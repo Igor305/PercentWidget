@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "/OoRQOG5VXw5oi5kJfRHjOz2b+IlqhM/Bf1cUqWUA5XtXQpLb3GtJd/p4ob/OQzNTPdkwuH8GElM7zxuIT2l4g==",
+  "dgSpecHash": "3055Q61HLrhUH7rO2ZEQ3Lur8q4cHhxwfe8enJBCX6HTdP/dQzlwSMe8J2/MRByXAIfgqlCvlXE4QDLsv/F3kA==",
   "success": true,
   "projectFilePath": "C:\\Users\\i.talavyria\\Desktop\\project\\PercentWidget\\PercentWidget\\PercentWidget\\PercentWidget.csproj",
   "expectedPackageFiles": [
@@ -14,14 +14,17 @@
     "C:\\Users\\i.talavyria\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
     "C:\\Users\\i.talavyria\\.nuget\\packages\\system.data.sqlclient\\4.8.3\\system.data.sqlclient.4.8.3.nupkg.sha512",
     "C:\\Users\\i.talavyria\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
-    "C:\\Users\\i.talavyria\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
+    "C:\\Users\\i.talavyria\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
+    "C:\\Users\\i.talavyria\\.nuget\\packages\\microsoft.netcore.app.runtime.osx-x64\\5.0.12\\microsoft.netcore.app.runtime.osx-x64.5.0.12.nupkg.sha512",
+    "C:\\Users\\i.talavyria\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.osx-x64\\5.0.12\\microsoft.aspnetcore.app.runtime.osx-x64.5.0.12.nupkg.sha512",
+    "C:\\Users\\i.talavyria\\.nuget\\packages\\microsoft.netcore.app.host.osx-x64\\5.0.12\\microsoft.netcore.app.host.osx-x64.5.0.12.nupkg.sha512"
   ],
   "logs": [
     {
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'LiveCharts 0.9.7' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0-windows7.0'. This package may not be fully compatible with your project.",
+      "message": "Пакет \"LiveCharts 0.9.7\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\", а не целевой платформы проекта \"net5.0-windows7.0\". Этот пакет может быть не полностью совместим с вашим проектом.",
       "libraryId": "LiveCharts",
       "targetGraphs": [
         "net5.0-windows7.0"
@@ -31,7 +34,7 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'LiveCharts.Wpf 0.9.7' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0-windows7.0'. This package may not be fully compatible with your project.",
+      "message": "Пакет \"LiveCharts.Wpf 0.9.7\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\", а не целевой платформы проекта \"net5.0-windows7.0\". Этот пакет может быть не полностью совместим с вашим проектом.",
       "libraryId": "LiveCharts.Wpf",
       "targetGraphs": [
         "net5.0-windows7.0"

@@ -18,14 +18,52 @@
         Top="0"
         ResizeMode="NoResize"
         ShowInTaskbar="False"
-        MouseDown="Btn_OnMouseDown">
+        MouseDown="Btn_OnMouseDown"
+        Topmost="True">
     <Grid>
+        <Grid.ContextMenu>
+            <ContextMenu>
+                <MenuItem Header="Оновити дані" Click="update">
+                    <MenuItem.Icon>
+                        <Image Source="/update.jpg">
+                            <Image.OpacityMask>
+                                <ImageBrush ImageSource="/update.jpg"/>
+                            </Image.OpacityMask>
+                        </Image>
+                    </MenuItem.Icon>
+                </MenuItem>
+                <MenuItem Name="menuFixation" Header="Відкріпити поверх всіх вікон" Click="fix">
+                    <MenuItem.Icon>
+                        <Image Source="/fix.jpg">
+                            <Image.OpacityMask>
+                                <ImageBrush ImageSource="/fix.jpg"/>
+                            </Image.OpacityMask>
+                        </Image>
+                    </MenuItem.Icon>
+                </MenuItem>
+                <MenuItem Name="menuSize" Header="Зменшити розмір" Click="changeSize">
+                    <MenuItem.Icon>
+                        <Image Source="/size.jpg"/>
+                    </MenuItem.Icon>
+                </MenuItem>
+                <Separator />
+                <MenuItem Header="Закрити віджет" Click="close">
+                    <MenuItem.Icon>
+                        <Image Source="/exit.jpg">
+                            <Image.OpacityMask>
+                                <ImageBrush ImageSource="/exit.jpg"/>
+                            </Image.OpacityMask>
+                        </Image>
+                    </MenuItem.Icon>
+                </MenuItem>
+            </ContextMenu>
+        </Grid.ContextMenu>
         <lvc:Gauge x:Name="Gauge"
                    Grid.Row="0"
                    Grid.Column="1"
                    Margin="5"
-                   Width="150"
-                   Height="150"
+                   Width="153"
+                   Height="153"
                    Uses360Mode="True"
                    From="0" To="100"              
                    FromColor ="#40753e" 
@@ -40,21 +78,24 @@
             </lvc:Gauge.GaugeRenderTransform>
         </lvc:Gauge>
         <Ellipse
+            x:Name="elipse1"
             Width="140"
             Height="140"
             Fill="White"
             Panel.ZIndex="4"/>
         <Ellipse
+            x:Name="elipse2"
             Width="160"
             Height="160"
             Fill="White"
             Panel.ZIndex="2">
             <Ellipse.Effect>
-                <DropShadowEffect Color="White" Direction="110" BlurRadius="1"
+                <DropShadowEffect x:Name="elipse2Effect" Color="White" Direction="110" BlurRadius="1"
                     ShadowDepth="7" />
             </Ellipse.Effect>
         </Ellipse>
         <Ellipse
+            x:Name="elipse3"
             Width="170"
             Height="170"
             Fill="#f3eeee"
@@ -64,7 +105,7 @@
             Canvas.Top="100"
             Panel.ZIndex="1">
             <Ellipse.Effect>
-                <DropShadowEffect Color="Black" Direction="-60" BlurRadius="10"
+                <DropShadowEffect x:Name="elipse3Effect" Color="Black" Direction="-60" BlurRadius="10"
                     ShadowDepth="7" />
             </Ellipse.Effect>
         </Ellipse>
@@ -84,45 +125,5 @@
                   BlurRadius="0.0" />
             </TextBlock.Effect>
         </TextBlock>
-        <Button x:Name="ButtonClose"
-            Margin="170,10,0,170"
-            Background="Transparent"
-            Height="20"
-            Width="20"
-            Click="Close"
-            HorizontalAlignment="Left"
-            Panel.ZIndex="2">
-
-            <Rectangle Fill="#7e837f" 
-                       RenderTransformOrigin="0.5,0.5" 
-                       Height="16"
-                       Width="2">
-                <Rectangle.RenderTransform>
-                    <TransformGroup>
-                        <ScaleTransform/>
-                        <SkewTransform/>
-                        <RotateTransform Angle="45.083"/>
-                        <TranslateTransform/>
-                    </TransformGroup>
-                </Rectangle.RenderTransform>
-
-            </Rectangle>
-        </Button>
-        <Rectangle Fill="#7e837f"
-                   Height="16"
-                   Width="2"
-                   RenderTransformOrigin="0.5,0.5"
-                   Margin="180,12,18,172"
-                   Panel.ZIndex="2">
-            <Rectangle.RenderTransform>
-                <TransformGroup>
-                    <ScaleTransform/>
-                    <SkewTransform/>
-                    <RotateTransform Angle="134.407"/>
-                    <TranslateTransform/>
-                </TransformGroup>
-            </Rectangle.RenderTransform>
-
-        </Rectangle>
     </Grid>
 </Window>
