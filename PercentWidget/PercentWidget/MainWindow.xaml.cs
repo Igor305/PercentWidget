@@ -14,18 +14,10 @@ namespace PercentWidget
     {
         private static Timer aTimer;
         private static readonly HttpClient client = new HttpClient();
-        private static bool createdNew = true;
+        static bool createdNew = true;
 
         public MainWindow()
-        {  
-            using (System.Threading.Mutex instanceMutex = new System.Threading.Mutex(true, @"Global\ControlPanel", out createdNew))
-            {
-                if (!createdNew)
-                {
-                    Application.Current.Shutdown();
-                    return;
-                }
-            }
+        {
 
             InitializeComponent();
 

@@ -43,7 +43,11 @@
                 </MenuItem>
                 <MenuItem Name="menuSize" Header="Зменшити розмір" Click="changeSize">
                     <MenuItem.Icon>
-                        <Image Source="/size.jpg"/>
+                        <Image Source="/size.jpg">
+                            <Image.OpacityMask>
+                                <ImageBrush ImageSource="/size.jpg"/>
+                            </Image.OpacityMask>
+                        </Image>
                     </MenuItem.Icon>
                 </MenuItem>
                 <Separator />

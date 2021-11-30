@@ -744,7 +744,6 @@ C:\Users\i.talavyria\Desktop\project\PercentWidget\PercentWidget\PercentWidget\b
 C:\Users\i.talavyria\Desktop\project\PercentWidget\PercentWidget\PercentWidget\bin\Debug\net5.0-windows\win-x64\hostfxr.dll
 C:\Users\i.talavyria\Desktop\project\PercentWidget\PercentWidget\PercentWidget\bin\Debug\net5.0-windows\win-x64\hostpolicy.dll
 C:\Users\i.talavyria\Desktop\project\PercentWidget\PercentWidget\PercentWidget\bin\Debug\net5.0-windows\win-x64\mscordaccore.dll
-C:\Users\i.talavyria\Desktop\project\PercentWidget\PercentWidget\PercentWidget\bin\Debug\net5.0-windows\win-x64\mscordaccore_amd64_amd64_5.0.1121.47308.dll
 C:\Users\i.talavyria\Desktop\project\PercentWidget\PercentWidget\PercentWidget\bin\Debug\net5.0-windows\win-x64\mscordbi.dll
 C:\Users\i.talavyria\Desktop\project\PercentWidget\PercentWidget\PercentWidget\bin\Debug\net5.0-windows\win-x64\mscorrc.dll
 C:\Users\i.talavyria\Desktop\project\PercentWidget\PercentWidget\PercentWidget\bin\Debug\net5.0-windows\win-x64\ucrtbase.dll
@@ -1043,3 +1042,5 @@ C:\Users\i.talavyria\Desktop\project\PercentWidget\PercentWidget\PercentWidget\o
 C:\Users\i.talavyria\Desktop\project\PercentWidget\PercentWidget\PercentWidget\obj\Debug\net5.0-windows\win-x64\ref\PercentWidget.dll
 C:\Users\i.talavyria\Desktop\project\PercentWidget\PercentWidget\PercentWidget\obj\Debug\net5.0-windows\win-x64\PercentWidget.pdb
 C:\Users\i.talavyria\Desktop\project\PercentWidget\PercentWidget\PercentWidget\obj\Debug\net5.0-windows\win-x64\PercentWidget.genruntimeconfig.cache
+C:\Users\i.talavyria\Desktop\project\PercentWidget\PercentWidget\PercentWidget\bin\Debug\net5.0-windows\win-x64\mscordaccore_amd64_amd64_5.0.1221.52207.dll
+C:\Users\i.talavyria\Desktop\project\PercentWidget\PercentWidget\PercentWidget\obj\Debug\net5.0-windows\win-x64\PercentWidget.csproj.CopyComplete

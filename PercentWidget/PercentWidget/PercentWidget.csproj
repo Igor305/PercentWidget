@@ -7,8 +7,22 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="exit.jpg" />
+    <None Remove="fix.jpg" />
+    <None Remove="size.jpg" />
+    <None Remove="update.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="LiveCharts.Wpf" Version="0.9.7" />
     <PackageReference Include="System.Data.SqlClient" Version="4.8.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="exit.jpg" />
+    <Resource Include="fix.jpg" />
+    <Resource Include="size.jpg" />
+    <Resource Include="update.jpg" />
   </ItemGroup>
 
 </Project>
