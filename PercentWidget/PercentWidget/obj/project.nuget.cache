@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "CNVOw8laBqc9hP1B9Q4Mrg+qLtvir16fJ0j2MDKgCke1SX/Pmv/EoJVZkFgQyhO5s//NmyrUCpBbS22lYwICSw==",
+  "dgSpecHash": "Iwrt+uB4AdusVZ4M4/vlfYiulM/U7YJ30w7RormV9kz7omlRJ+PCfXnHJI6FHNcgmg3ogoRprnOweK2QWI5FFg==",
   "success": true,
   "projectFilePath": "C:\\Users\\i.talavyria\\Desktop\\project\\PercentWidget\\PercentWidget\\PercentWidget\\PercentWidget.csproj",
   "expectedPackageFiles": [
@@ -14,7 +14,10 @@
     "C:\\Users\\i.talavyria\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
     "C:\\Users\\i.talavyria\\.nuget\\packages\\system.data.sqlclient\\4.8.3\\system.data.sqlclient.4.8.3.nupkg.sha512",
     "C:\\Users\\i.talavyria\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
-    "C:\\Users\\i.talavyria\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
+    "C:\\Users\\i.talavyria\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
+    "C:\\Users\\i.talavyria\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\5.0.13\\microsoft.netcore.app.runtime.win-x64.5.0.13.nupkg.sha512",
+    "C:\\Users\\i.talavyria\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\5.0.13\\microsoft.windowsdesktop.app.runtime.win-x64.5.0.13.nupkg.sha512",
+    "C:\\Users\\i.talavyria\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\5.0.13\\microsoft.aspnetcore.app.runtime.win-x64.5.0.13.nupkg.sha512"
   ],
   "logs": [
     {

@@ -1042,5 +1042,5 @@ C:\Users\i.talavyria\Desktop\project\PercentWidget\PercentWidget\PercentWidget\o
 C:\Users\i.talavyria\Desktop\project\PercentWidget\PercentWidget\PercentWidget\obj\Debug\net5.0-windows\win-x64\ref\PercentWidget.dll
 C:\Users\i.talavyria\Desktop\project\PercentWidget\PercentWidget\PercentWidget\obj\Debug\net5.0-windows\win-x64\PercentWidget.pdb
 C:\Users\i.talavyria\Desktop\project\PercentWidget\PercentWidget\PercentWidget\obj\Debug\net5.0-windows\win-x64\PercentWidget.genruntimeconfig.cache
-C:\Users\i.talavyria\Desktop\project\PercentWidget\PercentWidget\PercentWidget\bin\Debug\net5.0-windows\win-x64\mscordaccore_amd64_amd64_5.0.1221.52207.dll
 C:\Users\i.talavyria\Desktop\project\PercentWidget\PercentWidget\PercentWidget\obj\Debug\net5.0-windows\win-x64\PercentWidget.csproj.CopyComplete
+C:\Users\i.talavyria\Desktop\project\PercentWidget\PercentWidget\PercentWidget\bin\Debug\net5.0-windows\win-x64\mscordaccore_amd64_amd64_5.0.1321.56516.dll

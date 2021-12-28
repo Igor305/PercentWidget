@@ -59,3 +59,4 @@ C:\Users\i.talavyria\Desktop\project\PercentWidget\PercentWidget\PercentWidget\o
 C:\Users\i.talavyria\Desktop\project\PercentWidget\PercentWidget\PercentWidget\obj\Debug\net5.0-windows\ref\PercentWidget.dll
 C:\Users\i.talavyria\Desktop\project\PercentWidget\PercentWidget\PercentWidget\obj\Debug\net5.0-windows\PercentWidget.pdb
 C:\Users\i.talavyria\Desktop\project\PercentWidget\PercentWidget\PercentWidget\obj\Debug\net5.0-windows\PercentWidget.genruntimeconfig.cache
+C:\Users\i.talavyria\Desktop\project\PercentWidget\PercentWidget\PercentWidget\obj\Debug\net5.0-windows\PercentWidget.csproj.CopyComplete

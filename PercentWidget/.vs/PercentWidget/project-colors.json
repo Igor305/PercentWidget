@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "09c9415c-4dde-41a5-9f8d-fd1f966eb697": {
+      "ProjectGuid": "09c9415c-4dde-41a5-9f8d-fd1f966eb697",
+      "DisplayName": "PercentWidget",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
